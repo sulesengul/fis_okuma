@@ -1,2 +1,2 @@
 # fis_okuma
-## fiş
+Girilen fişi metne dönüştürüp toplam tutarı gösteren python kodu
